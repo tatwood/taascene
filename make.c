@@ -1,0 +1,6 @@
+#include "src/scene.c"
+#include "src/sceneanim.c"
+#include "src/scenefile.c"
+#include "src/scenemesh.c"
+#include "src/scenenode.c"
+#include "src/sceneskel.c"
